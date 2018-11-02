@@ -1,6 +1,6 @@
 <template>
 <div>
-  1111111222222222
+  3333333
   <divider>水平</divider>
   <flexbox>
     <flexbox-item><div class="flex-demo">1</div></flexbox-item>
